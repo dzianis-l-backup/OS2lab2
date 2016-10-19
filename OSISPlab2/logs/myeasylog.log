@@ -1,208 +1,908 @@
-2015-10-22 00:32:16,090 INFO  [default] 1 workers have been successfully created
-2015-10-22 00:32:16,096 INFO  [default] New task was added.
-2015-10-22 00:32:16,099 INFO  [default] New task was added.
-2015-10-22 00:32:16,101 INFO  [default] New task was added.
-2015-10-22 00:32:16,103 INFO  [default] New task was added.
-2015-10-22 00:32:16,106 INFO  [default] New task was added.
-2015-10-22 00:32:16,108 INFO  [default] New task was added.
-2015-10-22 00:32:16,110 INFO  [default] New task was added.
-2015-10-22 00:32:16,113 INFO  [default] New task was added.
-2015-10-22 00:32:16,115 INFO  [default] New task was added.
-2015-10-22 00:32:17,093 ERROR [default] Unable to perform a task. Max thread limit is achieved.
+2016-10-18 09:46:11,853 INFO  [default] 2 workers have been created
+2016-10-18 09:46:11,858 INFO  [default] New task has been added!
+2016-10-18 09:46:11,861 INFO  [default] New task has been added!
+2016-10-18 09:46:11,863 INFO  [default] New task has been added!
+2016-10-18 09:46:11,867 INFO  [default] New task has been added!
+2016-10-18 09:46:11,869 INFO  [default] New task has been added!
+2016-10-18 09:46:11,871 INFO  [default] New task has been added!
+2016-10-18 09:46:11,873 INFO  [default] New task has been added!
+2016-10-18 09:46:11,874 INFO  [default] New task has been added!
+2016-10-18 09:46:11,878 INFO  [default] New task has been added!
+2016-10-18 09:46:11,880 INFO  [default] New task has been added!
+2016-10-18 09:46:11,883 INFO  [default] New task has been added!
+2016-10-18 09:46:11,886 INFO  [default] New task has been added!
+2016-10-18 09:46:11,888 INFO  [default] New task has been added!
+2016-10-18 09:46:11,890 INFO  [default] New task has been added!
+2016-10-18 09:46:12,854 INFO  [default] workers in queue - 2
+2016-10-18 09:46:12,858 INFO  [default] workers in queue - 2
+2016-10-18 09:46:12,863 INFO  [default] workers in queue - 2
+2016-10-18 09:46:12,868 INFO  [default] workers in queue - 3
+2016-10-18 09:46:12,884 INFO  [default] workers in queue - 4
+2016-10-18 09:46:12,890 INFO  [default] workers in queue - 4
+2016-10-18 09:46:12,907 INFO  [default] workers in queue - 4
+2016-10-18 09:46:12,910 INFO  [default] workers in queue - 4
+2016-10-18 09:46:12,929 INFO  [default] workers in queue - 4
+2016-10-18 09:46:12,932 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2015-10-22 00:32:17,133 ERROR [default] Unable to perform a task. Max thread limit is achieved.
+2016-10-18 09:46:12,945 INFO  [default] workers in queue - 4
+2016-10-18 09:46:12,955 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2015-10-22 00:32:17,162 ERROR [default] Unable to perform a task. Max thread limit is achieved.
+2016-10-18 09:46:12,962 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2015-10-22 00:35:19,512 INFO  [default] 1 workers have been successfully created
-2015-10-22 00:35:19,518 INFO  [default] New task was added.
-2015-10-22 00:35:19,522 INFO  [default] New task was added.
-2015-10-22 00:35:19,525 INFO  [default] New task was added.
-2015-10-22 00:35:19,527 INFO  [default] New task was added.
-2015-10-22 00:35:19,529 INFO  [default] New task was added.
-2015-10-22 00:35:19,530 INFO  [default] New task was added.
-2015-10-22 00:35:19,532 INFO  [default] New task was added.
-2015-10-22 00:35:19,534 INFO  [default] New task was added.
-2015-10-22 00:35:19,536 INFO  [default] New task was added.
-2015-10-22 00:35:20,515 ERROR [default] Unable to perform a task. Max thread limit is achieved.
+2016-10-18 09:46:12,970 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2015-10-22 00:35:20,547 ERROR [default] Unable to perform a task. Max thread limit is achieved.
+2016-10-18 09:56:24,361 INFO  [default] 2 workers have been created
+2016-10-18 09:56:24,366 INFO  [default] New task has been added!
+2016-10-18 09:56:24,368 INFO  [default] New task has been added!
+2016-10-18 09:56:24,370 INFO  [default] New task has been added!
+2016-10-18 09:56:24,372 INFO  [default] New task has been added!
+2016-10-18 09:56:24,376 INFO  [default] New task has been added!
+2016-10-18 09:56:24,378 INFO  [default] New task has been added!
+2016-10-18 09:56:24,380 INFO  [default] New task has been added!
+2016-10-18 09:56:24,382 INFO  [default] New task has been added!
+2016-10-18 09:56:24,384 INFO  [default] New task has been added!
+2016-10-18 09:56:24,386 INFO  [default] New task has been added!
+2016-10-18 09:56:24,388 INFO  [default] New task has been added!
+2016-10-18 09:56:24,390 INFO  [default] New task has been added!
+2016-10-18 09:56:24,395 INFO  [default] New task has been added!
+2016-10-18 09:56:24,397 INFO  [default] New task has been added!
+2016-10-18 09:56:25,362 INFO  [default] workers in queue - 2
+2016-10-18 09:56:25,366 INFO  [default] workers in queue - 2
+2016-10-18 09:56:25,371 INFO  [default] workers in queue - 2
+2016-10-18 09:56:25,375 INFO  [default] workers in queue - 3
+2016-10-18 09:56:25,394 INFO  [default] workers in queue - 3
+2016-10-18 09:56:25,404 INFO  [default] workers in queue - 3
+2016-10-18 09:56:25,406 INFO  [default] workers in queue - 4
+2016-10-18 09:56:25,417 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2015-10-22 08:43:08,060 INFO  [default] 2 workers have been successfully created
-2015-10-22 08:43:08,068 INFO  [default] New task was added.
-2015-10-22 08:43:08,070 INFO  [default] New task was added.
-2015-10-22 08:43:08,072 INFO  [default] New task was added.
-2015-10-22 08:43:08,074 INFO  [default] New task was added.
-2015-10-22 08:43:08,076 INFO  [default] New task was added.
-2015-10-22 08:43:08,077 INFO  [default] New task was added.
-2015-10-22 08:43:08,079 INFO  [default] New task was added.
-2015-10-22 08:43:08,081 INFO  [default] New task was added.
-2015-10-22 08:43:08,084 INFO  [default] New task was added.
-2015-10-22 08:43:09,064 ERROR [default] Unable to perform a task. Max thread limit is achieved.
+2016-10-18 09:56:25,432 INFO  [default] workers in queue - 4
+2016-10-18 09:56:25,442 INFO  [default] workers in queue - 4
+2016-10-18 09:56:25,446 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2015-10-23 10:06:26,704 INFO  [default] 2 workers have been successfully created
-2015-10-23 10:06:26,725 INFO  [default] New task was added.
-2015-10-23 10:06:26,736 INFO  [default] New task was added.
-2015-10-23 10:06:26,746 INFO  [default] New task was added.
-2015-10-23 10:06:26,756 INFO  [default] New task was added.
-2015-10-23 10:06:26,767 INFO  [default] New task was added.
-2015-10-23 10:06:26,777 INFO  [default] New task was added.
-2015-10-23 10:06:26,788 INFO  [default] New task was added.
-2015-10-23 10:06:26,798 INFO  [default] New task was added.
-2015-10-23 10:06:26,807 INFO  [default] New task was added.
-2015-10-23 10:06:27,705 ERROR [default] Unable to perform a task. Max thread limit is achieved.
+2016-10-18 09:56:25,460 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2015-11-26 00:43:08,837 INFO  [default] 2 workers have been successfully created
-2015-11-26 00:43:08,867 INFO  [default] New task was added.
-2015-11-26 00:43:08,870 INFO  [default] New task was added.
-2015-11-26 00:43:08,872 INFO  [default] New task was added.
-2015-11-26 00:43:08,874 INFO  [default] New task was added.
-2015-11-26 00:43:08,876 INFO  [default] New task was added.
-2015-11-26 00:43:08,878 INFO  [default] New task was added.
-2015-11-26 00:43:08,881 INFO  [default] New task was added.
-2015-11-26 00:43:08,884 INFO  [default] New task was added.
-2015-11-26 00:43:08,887 INFO  [default] New task was added.
-2015-11-26 00:43:09,815 ERROR [default] Unable to perform a task. Max thread limit is achieved.
+2016-10-18 09:56:25,467 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2015-11-26 00:52:01,522 INFO  [default] 2 workers were created
-2015-11-26 00:52:01,527 INFO  [default] New task was added
-2015-11-26 00:52:01,529 INFO  [default] New task was added
-2015-11-26 00:52:01,531 INFO  [default] New task was added
-2015-11-26 00:52:01,533 INFO  [default] New task was added
-2015-11-26 00:52:01,535 INFO  [default] New task was added
-2015-11-26 00:52:01,537 INFO  [default] New task was added
-2015-11-26 00:52:01,539 INFO  [default] New task was added
-2015-11-26 00:52:01,541 INFO  [default] New task was added
-2015-11-26 00:52:01,543 INFO  [default] New task was added
-2015-11-26 00:52:02,524 ERROR [default] Max thread limit is achieved.
+2016-10-18 09:56:25,472 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2015-11-26 00:53:02,644 INFO  [default] 2 workers were created
-2015-11-26 00:53:02,648 INFO  [default] New task was added
-2015-11-26 00:53:02,650 INFO  [default] New task was added
-2015-11-26 00:53:02,652 INFO  [default] New task was added
-2015-11-26 00:53:02,654 INFO  [default] New task was added
-2015-11-26 00:53:02,656 INFO  [default] New task was added
-2015-11-26 00:53:02,659 INFO  [default] New task was added
-2015-11-26 00:53:02,661 INFO  [default] New task was added
-2015-11-26 00:53:02,663 INFO  [default] New task was added
-2015-11-26 00:53:02,666 INFO  [default] New task was added
-2015-11-26 00:53:03,646 ERROR [default] Max thread limit is achieved.
+2016-10-18 10:23:33,801 INFO  [default] 2 workers have been created
+2016-10-18 10:23:33,805 INFO  [default] New task has been added!
+2016-10-18 10:23:33,807 INFO  [default] New task has been added!
+2016-10-18 10:23:33,808 INFO  [default] New task has been added!
+2016-10-18 10:23:33,811 INFO  [default] New task has been added!
+2016-10-18 10:23:33,814 INFO  [default] New task has been added!
+2016-10-18 10:23:33,816 INFO  [default] New task has been added!
+2016-10-18 10:23:33,820 INFO  [default] New task has been added!
+2016-10-18 10:23:33,823 INFO  [default] New task has been added!
+2016-10-18 10:23:33,825 INFO  [default] New task has been added!
+2016-10-18 10:23:33,828 INFO  [default] New task has been added!
+2016-10-18 10:23:33,829 INFO  [default] New task has been added!
+2016-10-18 10:23:33,832 INFO  [default] New task has been added!
+2016-10-18 10:23:33,836 INFO  [default] New task has been added!
+2016-10-18 10:23:33,838 INFO  [default] New task has been added!
+2016-10-18 10:23:34,825 INFO  [default] workers in queue - 2
+2016-10-18 10:23:34,837 INFO  [default] workers in queue - 2
+2016-10-18 10:23:34,850 INFO  [default] workers in queue - 3
+2016-10-18 10:23:57,997 INFO  [default] 2 workers have been created
+2016-10-18 10:23:58,001 INFO  [default] New task has been added!
+2016-10-18 10:23:58,003 INFO  [default] New task has been added!
+2016-10-18 10:23:58,006 INFO  [default] New task has been added!
+2016-10-18 10:23:58,008 INFO  [default] New task has been added!
+2016-10-18 10:23:58,011 INFO  [default] New task has been added!
+2016-10-18 10:23:58,014 INFO  [default] New task has been added!
+2016-10-18 10:23:58,016 INFO  [default] New task has been added!
+2016-10-18 10:23:58,019 INFO  [default] New task has been added!
+2016-10-18 10:23:58,022 INFO  [default] New task has been added!
+2016-10-18 10:23:58,025 INFO  [default] New task has been added!
+2016-10-18 10:23:58,027 INFO  [default] New task has been added!
+2016-10-18 10:23:58,031 INFO  [default] New task has been added!
+2016-10-18 10:23:58,034 INFO  [default] New task has been added!
+2016-10-18 10:23:58,036 INFO  [default] New task has been added!
+2016-10-18 10:24:21,508 INFO  [default] 2 workers have been created
+2016-10-18 10:24:21,513 INFO  [default] New task has been added!
+2016-10-18 10:24:21,516 INFO  [default] New task has been added!
+2016-10-18 10:24:21,518 INFO  [default] New task has been added!
+2016-10-18 10:24:21,520 INFO  [default] New task has been added!
+2016-10-18 10:24:21,523 INFO  [default] New task has been added!
+2016-10-18 10:24:21,526 INFO  [default] New task has been added!
+2016-10-18 10:24:21,529 INFO  [default] New task has been added!
+2016-10-18 10:24:21,531 INFO  [default] New task has been added!
+2016-10-18 10:24:21,534 INFO  [default] New task has been added!
+2016-10-18 10:24:21,535 INFO  [default] New task has been added!
+2016-10-18 10:24:21,537 INFO  [default] New task has been added!
+2016-10-18 10:24:21,542 INFO  [default] New task has been added!
+2016-10-18 10:24:21,544 INFO  [default] New task has been added!
+2016-10-18 10:24:21,546 INFO  [default] New task has been added!
+2016-10-18 10:24:34,694 INFO  [default] 2 workers have been created
+2016-10-18 10:24:52,183 INFO  [default] New task has been added!
+2016-10-18 10:24:52,847 INFO  [default] workers in queue - 2
+2016-10-18 10:25:25,102 INFO  [default] 2 workers have been created
+2016-10-18 10:25:31,728 INFO  [default] New task has been added!
+2016-10-18 10:26:58,531 INFO  [default] 2 workers have been created
+2016-10-18 10:27:03,402 INFO  [default] New task has been added!
+2016-10-18 10:27:05,314 INFO  [default] New task has been added!
+2016-10-18 10:27:07,277 INFO  [default] New task has been added!
+2016-10-18 10:27:34,861 INFO  [default] 2 workers have been created
+2016-10-18 10:27:38,497 INFO  [default] New task has been added!
+2016-10-18 10:27:38,500 INFO  [default] New task has been added!
+2016-10-18 10:27:38,502 INFO  [default] New task has been added!
+2016-10-18 10:27:38,503 INFO  [default] New task has been added!
+2016-10-18 10:27:38,505 INFO  [default] New task has been added!
+2016-10-18 10:27:38,507 INFO  [default] New task has been added!
+2016-10-18 10:27:38,508 INFO  [default] New task has been added!
+2016-10-18 10:27:38,510 INFO  [default] New task has been added!
+2016-10-18 10:27:38,511 INFO  [default] New task has been added!
+2016-10-18 10:27:38,513 INFO  [default] New task has been added!
+2016-10-18 10:27:38,514 INFO  [default] New task has been added!
+2016-10-18 10:27:38,517 INFO  [default] New task has been added!
+2016-10-18 10:27:38,519 INFO  [default] New task has been added!
+2016-10-18 10:27:38,520 INFO  [default] New task has been added!
+2016-10-18 10:27:53,698 INFO  [default] 2 workers have been created
+2016-10-18 10:27:53,702 INFO  [default] New task has been added!
+2016-10-18 10:27:53,704 INFO  [default] New task has been added!
+2016-10-18 10:27:53,705 INFO  [default] New task has been added!
+2016-10-18 10:27:53,707 INFO  [default] New task has been added!
+2016-10-18 10:27:53,710 INFO  [default] New task has been added!
+2016-10-18 10:27:53,712 INFO  [default] New task has been added!
+2016-10-18 10:27:53,716 INFO  [default] New task has been added!
+2016-10-18 10:27:53,718 INFO  [default] New task has been added!
+2016-10-18 10:27:53,721 INFO  [default] New task has been added!
+2016-10-18 10:27:53,723 INFO  [default] New task has been added!
+2016-10-18 10:27:53,725 INFO  [default] New task has been added!
+2016-10-18 10:27:53,728 INFO  [default] New task has been added!
+2016-10-18 10:27:53,730 INFO  [default] New task has been added!
+2016-10-18 10:27:53,734 INFO  [default] New task has been added!
+2016-10-18 10:29:47,770 INFO  [default] 2 workers have been created
+2016-10-18 10:29:47,775 INFO  [default] New task has been added!
+2016-10-18 10:29:47,778 INFO  [default] New task has been added!
+2016-10-18 10:29:47,780 INFO  [default] New task has been added!
+2016-10-18 10:29:47,782 INFO  [default] New task has been added!
+2016-10-18 10:29:47,784 INFO  [default] New task has been added!
+2016-10-18 10:29:47,787 INFO  [default] New task has been added!
+2016-10-18 10:29:47,789 INFO  [default] New task has been added!
+2016-10-18 10:29:47,793 INFO  [default] New task has been added!
+2016-10-18 10:29:47,796 INFO  [default] New task has been added!
+2016-10-18 10:29:47,798 INFO  [default] New task has been added!
+2016-10-18 10:29:47,800 INFO  [default] New task has been added!
+2016-10-18 10:29:47,802 INFO  [default] New task has been added!
+2016-10-18 10:29:47,804 INFO  [default] New task has been added!
+2016-10-18 10:29:47,806 INFO  [default] New task has been added!
+2016-10-18 10:30:48,631 INFO  [default] workers in queue - 2
+2016-10-18 10:32:12,493 INFO  [default] 2 workers have been created
+2016-10-18 10:32:16,069 INFO  [default] New task has been added!
+2016-10-18 10:32:16,071 INFO  [default] New task has been added!
+2016-10-18 10:32:16,074 INFO  [default] New task has been added!
+2016-10-18 10:32:16,075 INFO  [default] New task has been added!
+2016-10-18 10:32:16,077 INFO  [default] New task has been added!
+2016-10-18 10:32:16,080 INFO  [default] New task has been added!
+2016-10-18 10:32:16,081 INFO  [default] New task has been added!
+2016-10-18 10:32:16,083 INFO  [default] New task has been added!
+2016-10-18 10:32:16,085 INFO  [default] New task has been added!
+2016-10-18 10:32:16,086 INFO  [default] New task has been added!
+2016-10-18 10:32:16,089 INFO  [default] New task has been added!
+2016-10-18 10:32:16,091 INFO  [default] New task has been added!
+2016-10-18 10:32:16,093 INFO  [default] New task has been added!
+2016-10-18 10:32:16,096 INFO  [default] New task has been added!
+2016-10-18 10:32:57,701 INFO  [default] 2 workers have been created
+2016-10-18 10:32:57,707 INFO  [default] New task has been added!
+2016-10-18 10:32:57,709 INFO  [default] New task has been added!
+2016-10-18 10:32:57,711 INFO  [default] New task has been added!
+2016-10-18 10:32:57,715 INFO  [default] New task has been added!
+2016-10-18 10:32:57,717 INFO  [default] New task has been added!
+2016-10-18 10:32:57,719 INFO  [default] New task has been added!
+2016-10-18 10:32:57,724 INFO  [default] New task has been added!
+2016-10-18 10:32:57,726 INFO  [default] New task has been added!
+2016-10-18 10:32:57,728 INFO  [default] New task has been added!
+2016-10-18 10:32:57,730 INFO  [default] New task has been added!
+2016-10-18 10:32:57,731 INFO  [default] New task has been added!
+2016-10-18 10:32:57,733 INFO  [default] New task has been added!
+2016-10-18 10:32:57,736 INFO  [default] New task has been added!
+2016-10-18 10:32:57,739 INFO  [default] New task has been added!
+2016-10-18 10:38:58,603 INFO  [default] 2 workers have been created
+2016-10-18 10:38:58,607 INFO  [default] New task has been added!
+2016-10-18 10:38:58,609 INFO  [default] New task has been added!
+2016-10-18 10:38:58,611 INFO  [default] New task has been added!
+2016-10-18 10:38:58,614 INFO  [default] New task has been added!
+2016-10-18 10:38:58,617 INFO  [default] New task has been added!
+2016-10-18 10:38:58,619 INFO  [default] New task has been added!
+2016-10-18 10:38:58,621 INFO  [default] New task has been added!
+2016-10-18 10:38:58,623 INFO  [default] New task has been added!
+2016-10-18 10:38:58,625 INFO  [default] New task has been added!
+2016-10-18 10:38:58,627 INFO  [default] New task has been added!
+2016-10-18 10:38:58,629 INFO  [default] New task has been added!
+2016-10-18 10:38:58,633 INFO  [default] New task has been added!
+2016-10-18 10:38:58,635 INFO  [default] New task has been added!
+2016-10-18 10:38:58,638 INFO  [default] New task has been added!
+2016-10-18 10:40:16,815 INFO  [default] 2 workers have been created
+2016-10-18 10:40:16,820 INFO  [default] New task has been added!
+2016-10-18 10:40:16,822 INFO  [default] New task has been added!
+2016-10-18 10:40:16,824 INFO  [default] New task has been added!
+2016-10-18 10:40:16,827 INFO  [default] New task has been added!
+2016-10-18 10:40:16,830 INFO  [default] New task has been added!
+2016-10-18 10:40:16,833 INFO  [default] New task has been added!
+2016-10-18 10:40:16,836 INFO  [default] New task has been added!
+2016-10-18 10:40:16,838 INFO  [default] New task has been added!
+2016-10-18 10:40:16,840 INFO  [default] New task has been added!
+2016-10-18 10:40:16,843 INFO  [default] New task has been added!
+2016-10-18 10:40:16,846 INFO  [default] New task has been added!
+2016-10-18 10:40:16,850 INFO  [default] New task has been added!
+2016-10-18 10:40:16,852 INFO  [default] New task has been added!
+2016-10-18 10:40:16,855 INFO  [default] New task has been added!
+2016-10-18 10:43:02,561 INFO  [default] 2 workers have been created
+2016-10-18 10:43:02,576 INFO  [default] New task has been added!
+2016-10-18 10:43:02,576 INFO  [default] New task has been added!
+2016-10-18 10:43:02,576 INFO  [default] New task has been added!
+2016-10-18 10:43:02,576 INFO  [default] New task has been added!
+2016-10-18 10:43:02,576 INFO  [default] New task has been added!
+2016-10-18 10:43:02,576 INFO  [default] New task has been added!
+2016-10-18 10:43:02,592 INFO  [default] New task has been added!
+2016-10-18 10:43:02,592 INFO  [default] New task has been added!
+2016-10-18 10:43:02,592 INFO  [default] New task has been added!
+2016-10-18 10:43:02,592 INFO  [default] New task has been added!
+2016-10-18 10:43:02,592 INFO  [default] New task has been added!
+2016-10-18 10:43:02,592 INFO  [default] New task has been added!
+2016-10-18 10:43:02,608 INFO  [default] New task has been added!
+2016-10-18 10:43:02,608 INFO  [default] New task has been added!
+2016-10-18 10:44:13,687 INFO  [default] 2 workers have been created
+2016-10-18 10:44:13,687 INFO  [default] New task has been added!
+2016-10-18 10:44:13,709 INFO  [default] New task has been added!
+2016-10-18 10:44:13,709 INFO  [default] New task has been added!
+2016-10-18 10:44:13,724 INFO  [default] New task has been added!
+2016-10-18 10:44:13,724 INFO  [default] New task has been added!
+2016-10-18 10:44:13,724 INFO  [default] New task has been added!
+2016-10-18 10:44:13,724 INFO  [default] New task has been added!
+2016-10-18 10:44:13,740 INFO  [default] New task has been added!
+2016-10-18 10:44:13,740 INFO  [default] New task has been added!
+2016-10-18 10:44:13,740 INFO  [default] New task has been added!
+2016-10-18 10:44:13,756 INFO  [default] New task has been added!
+2016-10-18 10:44:13,756 INFO  [default] New task has been added!
+2016-10-18 10:44:13,756 INFO  [default] New task has been added!
+2016-10-18 10:44:13,771 INFO  [default] New task has been added!
+2016-10-18 10:44:25,366 INFO  [default] 2 workers have been created
+2016-10-18 10:44:25,371 INFO  [default] New task has been added!
+2016-10-18 10:44:25,372 INFO  [default] New task has been added!
+2016-10-18 10:44:25,374 INFO  [default] New task has been added!
+2016-10-18 10:44:25,376 INFO  [default] New task has been added!
+2016-10-18 10:44:25,378 INFO  [default] New task has been added!
+2016-10-18 10:44:25,382 INFO  [default] New task has been added!
+2016-10-18 10:44:25,382 INFO  [default] New task has been added!
+2016-10-18 10:44:25,382 INFO  [default] New task has been added!
+2016-10-18 10:44:25,382 INFO  [default] New task has been added!
+2016-10-18 10:44:25,382 INFO  [default] New task has been added!
+2016-10-18 10:44:25,382 INFO  [default] New task has been added!
+2016-10-18 10:44:25,382 INFO  [default] New task has been added!
+2016-10-18 10:44:25,397 INFO  [default] New task has been added!
+2016-10-18 10:44:25,397 INFO  [default] New task has been added!
+2016-10-18 10:44:47,721 INFO  [default] workers in queue - 3
+2016-10-18 10:45:08,823 INFO  [default] 2 workers have been created
+2016-10-18 10:45:08,823 INFO  [default] New task has been added!
+2016-10-18 10:45:08,823 INFO  [default] New task has been added!
+2016-10-18 10:45:08,823 INFO  [default] New task has been added!
+2016-10-18 10:45:08,823 INFO  [default] New task has been added!
+2016-10-18 10:45:08,823 INFO  [default] New task has been added!
+2016-10-18 10:45:08,838 INFO  [default] New task has been added!
+2016-10-18 10:45:08,838 INFO  [default] New task has been added!
+2016-10-18 10:45:08,838 INFO  [default] New task has been added!
+2016-10-18 10:45:08,838 INFO  [default] New task has been added!
+2016-10-18 10:45:08,838 INFO  [default] New task has been added!
+2016-10-18 10:45:08,854 INFO  [default] New task has been added!
+2016-10-18 10:45:08,854 INFO  [default] New task has been added!
+2016-10-18 10:45:08,854 INFO  [default] New task has been added!
+2016-10-18 10:45:08,854 INFO  [default] New task has been added!
+2016-10-18 10:45:33,004 INFO  [default] 2 workers have been created
+2016-10-18 10:45:33,008 INFO  [default] New task has been added!
+2016-10-18 10:45:33,010 INFO  [default] New task has been added!
+2016-10-18 10:45:33,010 INFO  [default] New task has been added!
+2016-10-18 10:45:33,010 INFO  [default] New task has been added!
+2016-10-18 10:45:33,010 INFO  [default] New task has been added!
+2016-10-18 10:45:33,010 INFO  [default] New task has been added!
+2016-10-18 10:45:33,010 INFO  [default] New task has been added!
+2016-10-18 10:45:33,010 INFO  [default] New task has been added!
+2016-10-18 10:45:33,025 INFO  [default] New task has been added!
+2016-10-18 10:45:33,025 INFO  [default] New task has been added!
+2016-10-18 10:45:33,025 INFO  [default] New task has been added!
+2016-10-18 10:45:33,025 INFO  [default] New task has been added!
+2016-10-18 10:45:33,025 INFO  [default] New task has been added!
+2016-10-18 10:45:33,025 INFO  [default] New task has been added!
+2016-10-18 10:45:50,224 INFO  [default] 2 workers have been created
+2016-10-18 10:45:50,224 INFO  [default] New task has been added!
+2016-10-18 10:45:50,224 INFO  [default] New task has been added!
+2016-10-18 10:45:50,224 INFO  [default] New task has been added!
+2016-10-18 10:45:50,224 INFO  [default] New task has been added!
+2016-10-18 10:45:50,224 INFO  [default] New task has been added!
+2016-10-18 10:45:50,241 INFO  [default] New task has been added!
+2016-10-18 10:45:50,243 INFO  [default] New task has been added!
+2016-10-18 10:45:50,245 INFO  [default] New task has been added!
+2016-10-18 10:45:50,245 INFO  [default] New task has been added!
+2016-10-18 10:45:50,245 INFO  [default] New task has been added!
+2016-10-18 10:45:50,245 INFO  [default] New task has been added!
+2016-10-18 10:45:50,245 INFO  [default] New task has been added!
+2016-10-18 10:45:50,245 INFO  [default] New task has been added!
+2016-10-18 10:45:50,245 INFO  [default] New task has been added!
+2016-10-18 10:48:14,048 INFO  [default] 2 workers have been created
+2016-10-18 10:48:14,048 INFO  [default] New task has been added!
+2016-10-18 10:48:14,048 INFO  [default] New task has been added!
+2016-10-18 10:48:14,048 INFO  [default] New task has been added!
+2016-10-18 10:48:14,048 INFO  [default] New task has been added!
+2016-10-18 10:48:14,048 INFO  [default] New task has been added!
+2016-10-18 10:48:14,063 INFO  [default] New task has been added!
+2016-10-18 10:48:14,063 INFO  [default] New task has been added!
+2016-10-18 10:48:14,063 INFO  [default] New task has been added!
+2016-10-18 10:48:14,063 INFO  [default] New task has been added!
+2016-10-18 10:48:14,063 INFO  [default] New task has been added!
+2016-10-18 10:48:14,063 INFO  [default] New task has been added!
+2016-10-18 10:48:14,082 INFO  [default] New task has been added!
+2016-10-18 10:48:14,084 INFO  [default] New task has been added!
+2016-10-18 10:48:14,086 INFO  [default] New task has been added!
+2016-10-18 10:52:20,959 INFO  [default] 2 workers have been created
+2016-10-18 10:52:20,959 INFO  [default] New task has been added!
+2016-10-18 10:52:20,959 INFO  [default] New task has been added!
+2016-10-18 10:52:20,959 INFO  [default] New task has been added!
+2016-10-18 10:52:20,959 INFO  [default] New task has been added!
+2016-10-18 10:52:20,976 INFO  [default] New task has been added!
+2016-10-18 10:52:20,978 INFO  [default] New task has been added!
+2016-10-18 10:52:20,981 INFO  [default] New task has been added!
+2016-10-18 10:52:20,981 INFO  [default] New task has been added!
+2016-10-18 10:52:20,981 INFO  [default] New task has been added!
+2016-10-18 10:52:20,981 INFO  [default] New task has been added!
+2016-10-18 10:52:20,981 INFO  [default] New task has been added!
+2016-10-18 10:52:20,981 INFO  [default] New task has been added!
+2016-10-18 10:52:20,981 INFO  [default] New task has been added!
+2016-10-18 10:52:20,981 INFO  [default] New task has been added!
+2016-10-18 10:55:14,015 INFO  [default] 2 workers have been created
+2016-10-18 10:55:14,021 INFO  [default] New task has been added!
+2016-10-18 10:55:14,023 INFO  [default] New task has been added!
+2016-10-18 10:55:14,025 INFO  [default] New task has been added!
+2016-10-18 10:55:14,027 INFO  [default] New task has been added!
+2016-10-18 10:55:14,029 INFO  [default] New task has been added!
+2016-10-18 10:55:14,032 INFO  [default] New task has been added!
+2016-10-18 10:55:14,036 INFO  [default] New task has been added!
+2016-10-18 10:55:14,038 INFO  [default] New task has been added!
+2016-10-18 10:55:14,040 INFO  [default] New task has been added!
+2016-10-18 10:55:14,042 INFO  [default] New task has been added!
+2016-10-18 10:55:14,044 INFO  [default] New task has been added!
+2016-10-18 10:55:14,047 INFO  [default] New task has been added!
+2016-10-18 10:55:14,049 INFO  [default] New task has been added!
+2016-10-18 10:55:14,052 INFO  [default] New task has been added!
+2016-10-18 10:56:37,423 INFO  [default] 2 workers have been created
+2016-10-18 10:56:37,428 INFO  [default] New task has been added!
+2016-10-18 10:56:37,430 INFO  [default] New task has been added!
+2016-10-18 10:56:37,432 INFO  [default] New task has been added!
+2016-10-18 10:56:37,436 INFO  [default] New task has been added!
+2016-10-18 10:56:37,436 INFO  [default] New task has been added!
+2016-10-18 10:56:37,436 INFO  [default] New task has been added!
+2016-10-18 10:56:37,436 INFO  [default] New task has been added!
+2016-10-18 10:56:37,436 INFO  [default] New task has been added!
+2016-10-18 10:56:37,436 INFO  [default] New task has been added!
+2016-10-18 10:56:37,436 INFO  [default] New task has been added!
+2016-10-18 10:56:37,436 INFO  [default] New task has been added!
+2016-10-18 10:56:37,452 INFO  [default] New task has been added!
+2016-10-18 10:56:37,452 INFO  [default] New task has been added!
+2016-10-18 10:56:37,452 INFO  [default] New task has been added!
+2016-10-18 10:58:56,250 INFO  [default] 2 workers have been created
+2016-10-18 10:58:56,254 INFO  [default] New task has been added!
+2016-10-18 10:58:56,258 INFO  [default] New task has been added!
+2016-10-18 10:58:56,260 INFO  [default] New task has been added!
+2016-10-18 10:58:56,263 INFO  [default] New task has been added!
+2016-10-18 10:58:56,265 INFO  [default] New task has been added!
+2016-10-18 10:58:56,266 INFO  [default] New task has been added!
+2016-10-18 10:58:56,269 INFO  [default] New task has been added!
+2016-10-18 10:58:56,272 INFO  [default] New task has been added!
+2016-10-18 10:58:56,276 INFO  [default] New task has been added!
+2016-10-18 10:58:56,278 INFO  [default] New task has been added!
+2016-10-18 10:58:56,280 INFO  [default] New task has been added!
+2016-10-18 10:58:56,282 INFO  [default] New task has been added!
+2016-10-18 10:58:56,284 INFO  [default] New task has been added!
+2016-10-18 10:58:56,287 INFO  [default] New task has been added!
+2016-10-18 10:59:13,499 INFO  [default] 2 workers have been created
+2016-10-18 10:59:13,505 INFO  [default] New task has been added!
+2016-10-18 10:59:13,507 INFO  [default] New task has been added!
+2016-10-18 10:59:13,510 INFO  [default] New task has been added!
+2016-10-18 10:59:13,512 INFO  [default] New task has been added!
+2016-10-18 10:59:13,516 INFO  [default] New task has been added!
+2016-10-18 10:59:13,518 INFO  [default] New task has been added!
+2016-10-18 10:59:13,522 INFO  [default] New task has been added!
+2016-10-18 10:59:13,525 INFO  [default] New task has been added!
+2016-10-18 10:59:13,527 INFO  [default] New task has been added!
+2016-10-18 10:59:13,529 INFO  [default] New task has been added!
+2016-10-18 10:59:13,531 INFO  [default] New task has been added!
+2016-10-18 10:59:13,533 INFO  [default] New task has been added!
+2016-10-18 10:59:13,536 INFO  [default] New task has been added!
+2016-10-18 10:59:13,539 INFO  [default] New task has been added!
+2016-10-18 11:00:13,146 INFO  [default] 2 workers have been created
+2016-10-18 11:00:13,151 INFO  [default] New task has been added!
+2016-10-18 11:00:13,154 INFO  [default] New task has been added!
+2016-10-18 11:00:13,156 INFO  [default] New task has been added!
+2016-10-18 11:00:13,160 INFO  [default] New task has been added!
+2016-10-18 11:00:13,162 INFO  [default] New task has been added!
+2016-10-18 11:00:13,165 INFO  [default] New task has been added!
+2016-10-18 11:00:13,168 INFO  [default] New task has been added!
+2016-10-18 11:00:13,170 INFO  [default] New task has been added!
+2016-10-18 11:00:13,172 INFO  [default] New task has been added!
+2016-10-18 11:00:13,177 INFO  [default] New task has been added!
+2016-10-18 11:00:13,179 INFO  [default] New task has been added!
+2016-10-18 11:00:13,181 INFO  [default] New task has been added!
+2016-10-18 11:00:13,183 INFO  [default] New task has been added!
+2016-10-18 11:00:13,186 INFO  [default] New task has been added!
+2016-10-18 11:04:11,489 INFO  [default] 2 workers have been created
+2016-10-18 11:04:11,495 INFO  [default] New task has been added!
+2016-10-18 11:04:11,497 INFO  [default] New task has been added!
+2016-10-18 11:04:11,499 INFO  [default] New task has been added!
+2016-10-18 11:04:11,501 INFO  [default] New task has been added!
+2016-10-18 11:04:11,504 INFO  [default] New task has been added!
+2016-10-18 11:04:11,506 INFO  [default] New task has been added!
+2016-10-18 11:04:11,507 INFO  [default] New task has been added!
+2016-10-18 11:04:11,511 INFO  [default] New task has been added!
+2016-10-18 11:04:11,514 INFO  [default] New task has been added!
+2016-10-18 11:04:11,516 INFO  [default] New task has been added!
+2016-10-18 11:04:11,519 INFO  [default] New task has been added!
+2016-10-18 11:04:11,522 INFO  [default] New task has been added!
+2016-10-18 11:04:11,523 INFO  [default] New task has been added!
+2016-10-18 11:04:11,527 INFO  [default] New task has been added!
+2016-10-18 11:04:53,562 INFO  [default] 2 workers have been created
+2016-10-18 11:04:57,840 INFO  [default] New task has been added!
+2016-10-18 11:06:36,686 INFO  [default] 2 workers have been created
+2016-10-18 11:06:45,230 INFO  [default] New task has been added!
+2016-10-18 11:06:46,993 INFO  [default] New task has been added!
+2016-10-18 11:08:08,180 INFO  [default] 2 workers have been created
+2016-10-18 11:08:08,184 INFO  [default] New task has been added!
+2016-10-18 11:08:08,185 INFO  [default] New task has been added!
+2016-10-18 11:08:08,188 INFO  [default] New task has been added!
+2016-10-18 11:08:08,190 INFO  [default] New task has been added!
+2016-10-18 11:08:08,193 INFO  [default] New task has been added!
+2016-10-18 11:08:08,198 INFO  [default] New task has been added!
+2016-10-18 11:08:08,200 INFO  [default] New task has been added!
+2016-10-18 11:08:08,202 INFO  [default] New task has been added!
+2016-10-18 11:08:08,205 INFO  [default] New task has been added!
+2016-10-18 11:08:08,207 INFO  [default] New task has been added!
+2016-10-18 11:08:08,210 INFO  [default] New task has been added!
+2016-10-18 11:08:08,215 INFO  [default] New task has been added!
+2016-10-18 11:08:08,217 INFO  [default] New task has been added!
+2016-10-18 11:08:08,219 INFO  [default] New task has been added!
+2016-10-18 11:09:26,319 INFO  [default] 2 workers have been created
+2016-10-18 11:09:26,323 INFO  [default] New task has been added!
+2016-10-18 11:09:26,325 INFO  [default] New task has been added!
+2016-10-18 11:09:26,327 INFO  [default] New task has been added!
+2016-10-18 11:09:26,330 INFO  [default] New task has been added!
+2016-10-18 11:09:26,333 INFO  [default] New task has been added!
+2016-10-18 11:09:26,335 INFO  [default] New task has been added!
+2016-10-18 11:09:26,337 INFO  [default] New task has been added!
+2016-10-18 11:09:26,339 INFO  [default] New task has been added!
+2016-10-18 11:09:26,342 INFO  [default] New task has been added!
+2016-10-18 11:09:26,344 INFO  [default] New task has been added!
+2016-10-18 11:09:26,346 INFO  [default] New task has been added!
+2016-10-18 11:09:26,350 INFO  [default] New task has been added!
+2016-10-18 11:09:26,353 INFO  [default] New task has been added!
+2016-10-18 11:09:26,355 INFO  [default] New task has been added!
+2016-10-18 11:10:43,275 INFO  [default] 2 workers have been created
+2016-10-18 11:10:43,293 INFO  [default] New task has been added!
+2016-10-18 11:10:43,296 INFO  [default] New task has been added!
+2016-10-18 11:10:43,297 INFO  [default] New task has been added!
+2016-10-18 11:10:43,299 INFO  [default] New task has been added!
+2016-10-18 11:10:43,301 INFO  [default] New task has been added!
+2016-10-18 11:10:43,304 INFO  [default] New task has been added!
+2016-10-18 11:10:43,305 INFO  [default] New task has been added!
+2016-10-18 11:10:43,307 INFO  [default] New task has been added!
+2016-10-18 11:10:43,309 INFO  [default] New task has been added!
+2016-10-18 11:10:43,310 INFO  [default] New task has been added!
+2016-10-18 11:10:43,313 INFO  [default] New task has been added!
+2016-10-18 11:10:43,315 INFO  [default] New task has been added!
+2016-10-18 11:10:43,317 INFO  [default] New task has been added!
+2016-10-18 11:10:43,318 INFO  [default] New task has been added!
+2016-10-18 11:14:47,779 INFO  [default] 2 workers have been created
+2016-10-18 11:14:47,784 INFO  [default] New task has been added!
+2016-10-18 11:14:47,786 INFO  [default] New task has been added!
+2016-10-18 11:14:47,788 INFO  [default] New task has been added!
+2016-10-18 11:14:47,790 INFO  [default] New task has been added!
+2016-10-18 11:14:47,793 INFO  [default] New task has been added!
+2016-10-18 11:14:47,796 INFO  [default] New task has been added!
+2016-10-18 11:14:47,797 INFO  [default] New task has been added!
+2016-10-18 11:14:47,799 INFO  [default] New task has been added!
+2016-10-18 11:14:47,801 INFO  [default] New task has been added!
+2016-10-18 11:14:47,803 INFO  [default] New task has been added!
+2016-10-18 11:14:47,805 INFO  [default] New task has been added!
+2016-10-18 11:14:47,807 INFO  [default] New task has been added!
+2016-10-18 11:14:47,810 INFO  [default] New task has been added!
+2016-10-18 11:14:47,811 INFO  [default] New task has been added!
+2016-10-18 11:15:29,825 INFO  [default] 2 workers have been created
+2016-10-18 11:15:29,830 INFO  [default] New task has been added!
+2016-10-18 11:15:29,832 INFO  [default] New task has been added!
+2016-10-18 11:15:29,834 INFO  [default] New task has been added!
+2016-10-18 11:15:29,837 INFO  [default] New task has been added!
+2016-10-18 11:15:29,841 INFO  [default] New task has been added!
+2016-10-18 11:15:29,844 INFO  [default] New task has been added!
+2016-10-18 11:15:29,846 INFO  [default] New task has been added!
+2016-10-18 11:15:29,848 INFO  [default] New task has been added!
+2016-10-18 11:15:29,850 INFO  [default] New task has been added!
+2016-10-18 11:15:29,852 INFO  [default] New task has been added!
+2016-10-18 11:15:29,856 INFO  [default] New task has been added!
+2016-10-18 11:15:29,859 INFO  [default] New task has been added!
+2016-10-18 11:15:29,861 INFO  [default] New task has been added!
+2016-10-18 11:15:29,864 INFO  [default] New task has been added!
+2016-10-18 11:16:22,698 INFO  [default] 2 workers have been created
+2016-10-18 11:16:22,701 INFO  [default] New task has been added!
+2016-10-18 11:16:22,703 INFO  [default] New task has been added!
+2016-10-18 11:16:22,705 INFO  [default] New task has been added!
+2016-10-18 11:16:22,706 INFO  [default] New task has been added!
+2016-10-18 11:16:22,709 INFO  [default] New task has been added!
+2016-10-18 11:16:22,713 INFO  [default] New task has been added!
+2016-10-18 11:16:22,715 INFO  [default] New task has been added!
+2016-10-18 11:16:22,718 INFO  [default] New task has been added!
+2016-10-18 11:16:22,720 INFO  [default] New task has been added!
+2016-10-18 11:16:22,722 INFO  [default] New task has been added!
+2016-10-18 11:16:22,724 INFO  [default] New task has been added!
+2016-10-18 11:16:22,725 INFO  [default] New task has been added!
+2016-10-18 11:16:22,729 INFO  [default] New task has been added!
+2016-10-18 11:16:22,732 INFO  [default] New task has been added!
+2016-10-18 11:17:10,566 INFO  [default] 2 workers have been created
+2016-10-18 11:17:10,572 INFO  [default] New task has been added!
+2016-10-18 11:17:10,574 INFO  [default] New task has been added!
+2016-10-18 11:17:10,576 INFO  [default] New task has been added!
+2016-10-18 11:17:10,579 INFO  [default] New task has been added!
+2016-10-18 11:17:10,581 INFO  [default] New task has been added!
+2016-10-18 11:17:10,585 INFO  [default] New task has been added!
+2016-10-18 11:17:10,590 INFO  [default] New task has been added!
+2016-10-18 11:17:10,592 INFO  [default] New task has been added!
+2016-10-18 11:17:10,595 INFO  [default] New task has been added!
+2016-10-18 11:17:10,597 INFO  [default] New task has been added!
+2016-10-18 11:17:10,600 INFO  [default] New task has been added!
+2016-10-18 11:17:10,603 INFO  [default] New task has been added!
+2016-10-18 11:17:10,606 INFO  [default] New task has been added!
+2016-10-18 11:17:10,609 INFO  [default] New task has been added!
+2016-10-18 11:17:24,626 INFO  [default] 2 workers have been created
+2016-10-18 11:17:24,631 INFO  [default] New task has been added!
+2016-10-18 11:17:24,635 INFO  [default] New task has been added!
+2016-10-18 11:17:24,637 INFO  [default] New task has been added!
+2016-10-18 11:17:24,640 INFO  [default] New task has been added!
+2016-10-18 11:17:24,642 INFO  [default] New task has been added!
+2016-10-18 11:17:24,645 INFO  [default] New task has been added!
+2016-10-18 11:17:24,648 INFO  [default] New task has been added!
+2016-10-18 11:17:24,651 INFO  [default] New task has been added!
+2016-10-18 11:17:24,654 INFO  [default] New task has been added!
+2016-10-18 11:17:24,656 INFO  [default] New task has been added!
+2016-10-18 11:17:24,658 INFO  [default] New task has been added!
+2016-10-18 11:17:24,661 INFO  [default] New task has been added!
+2016-10-18 11:17:24,662 INFO  [default] New task has been added!
+2016-10-18 11:17:24,664 INFO  [default] New task has been added!
+2016-10-18 11:19:12,785 INFO  [default] 2 workers have been created
+2016-10-18 11:19:18,855 INFO  [default] New task has been added!
+2016-10-18 11:19:19,600 INFO  [default] New task has been added!
+2016-10-18 11:57:00,100 INFO  [default] 2 workers have been created
+2016-10-18 11:57:01,925 INFO  [default] New task has been added!
+2016-10-18 11:57:01,928 INFO  [default] New task has been added!
+2016-10-18 11:57:01,929 INFO  [default] New task has been added!
+2016-10-18 11:57:01,931 INFO  [default] New task has been added!
+2016-10-18 11:57:01,933 INFO  [default] New task has been added!
+2016-10-18 11:57:01,935 INFO  [default] New task has been added!
+2016-10-18 11:57:01,937 INFO  [default] New task has been added!
+2016-10-18 11:57:01,939 INFO  [default] New task has been added!
+2016-10-18 11:57:01,940 INFO  [default] New task has been added!
+2016-10-18 11:57:01,943 INFO  [default] New task has been added!
+2016-10-18 11:57:01,946 INFO  [default] New task has been added!
+2016-10-18 11:57:01,948 INFO  [default] New task has been added!
+2016-10-18 11:57:01,951 INFO  [default] New task has been added!
+2016-10-18 11:57:01,954 INFO  [default] New task has been added!
+2016-10-18 11:57:25,730 INFO  [default] 2 workers have been created
+2016-10-18 11:57:25,734 INFO  [default] New task has been added!
+2016-10-18 11:57:25,736 INFO  [default] New task has been added!
+2016-10-18 11:57:25,739 INFO  [default] New task has been added!
+2016-10-18 11:57:25,741 INFO  [default] New task has been added!
+2016-10-18 11:57:25,744 INFO  [default] New task has been added!
+2016-10-18 11:57:25,746 INFO  [default] New task has been added!
+2016-10-18 11:57:25,749 INFO  [default] New task has been added!
+2016-10-18 11:57:25,751 INFO  [default] New task has been added!
+2016-10-18 11:57:25,754 INFO  [default] New task has been added!
+2016-10-18 11:57:25,757 INFO  [default] New task has been added!
+2016-10-18 11:57:25,759 INFO  [default] New task has been added!
+2016-10-18 11:57:25,762 INFO  [default] New task has been added!
+2016-10-18 11:57:25,764 INFO  [default] New task has been added!
+2016-10-18 11:57:25,766 INFO  [default] New task has been added!
+2016-10-18 12:14:01,316 INFO  [default] 2 workers have been created
+2016-10-18 12:14:01,322 INFO  [default] New task has been added!
+2016-10-18 12:14:01,323 INFO  [default] New task has been added!
+2016-10-18 12:14:01,325 INFO  [default] New task has been added!
+2016-10-18 12:14:01,327 INFO  [default] New task has been added!
+2016-10-18 12:14:01,330 INFO  [default] New task has been added!
+2016-10-18 12:14:01,331 INFO  [default] New task has been added!
+2016-10-18 12:14:01,334 INFO  [default] New task has been added!
+2016-10-18 12:14:01,336 INFO  [default] New task has been added!
+2016-10-18 12:14:01,339 INFO  [default] New task has been added!
+2016-10-18 12:14:01,341 INFO  [default] New task has been added!
+2016-10-18 12:14:01,343 INFO  [default] New task has been added!
+2016-10-18 12:14:01,346 INFO  [default] New task has been added!
+2016-10-18 12:14:01,348 INFO  [default] New task has been added!
+2016-10-18 12:14:01,350 INFO  [default] New task has been added!
+2016-10-18 13:00:57,410 INFO  [default] 2 workers have been created
+2016-10-18 13:00:57,414 INFO  [default] New task has been added!
+2016-10-18 13:00:57,416 INFO  [default] New task has been added!
+2016-10-18 13:00:57,418 INFO  [default] New task has been added!
+2016-10-18 13:00:57,420 INFO  [default] New task has been added!
+2016-10-18 13:00:57,423 INFO  [default] New task has been added!
+2016-10-18 13:00:57,426 INFO  [default] New task has been added!
+2016-10-18 13:00:57,429 INFO  [default] New task has been added!
+2016-10-18 13:00:57,433 INFO  [default] New task has been added!
+2016-10-18 13:00:57,435 INFO  [default] New task has been added!
+2016-10-18 13:00:57,438 INFO  [default] New task has been added!
+2016-10-18 13:00:57,442 INFO  [default] New task has been added!
+2016-10-18 13:00:57,445 INFO  [default] New task has been added!
+2016-10-18 13:00:57,449 INFO  [default] New task has been added!
+2016-10-18 13:00:57,452 INFO  [default] New task has been added!
+2016-10-18 13:01:17,272 INFO  [default] 2 workers have been created
+2016-10-18 13:01:17,276 INFO  [default] New task has been added!
+2016-10-18 13:01:17,278 INFO  [default] New task has been added!
+2016-10-18 13:01:17,281 INFO  [default] New task has been added!
+2016-10-18 13:01:17,285 INFO  [default] New task has been added!
+2016-10-18 13:01:17,287 INFO  [default] New task has been added!
+2016-10-18 13:01:17,289 INFO  [default] New task has been added!
+2016-10-18 13:01:17,292 INFO  [default] New task has been added!
+2016-10-18 13:01:17,294 INFO  [default] New task has been added!
+2016-10-18 13:01:17,296 INFO  [default] New task has been added!
+2016-10-18 13:01:17,299 INFO  [default] New task has been added!
+2016-10-18 13:01:17,303 INFO  [default] New task has been added!
+2016-10-18 13:01:17,305 INFO  [default] New task has been added!
+2016-10-18 13:01:17,308 INFO  [default] New task has been added!
+2016-10-18 13:01:17,310 INFO  [default] New task has been added!
+2016-10-18 13:01:57,139 INFO  [default] 2 workers have been created
+2016-10-18 13:04:05,475 INFO  [default] New task has been added!
+2016-10-18 13:04:05,477 INFO  [default] New task has been added!
+2016-10-18 13:04:05,480 INFO  [default] New task has been added!
+2016-10-18 13:04:05,482 INFO  [default] New task has been added!
+2016-10-18 13:04:05,485 INFO  [default] New task has been added!
+2016-10-18 13:04:05,486 INFO  [default] New task has been added!
+2016-10-18 13:04:05,488 INFO  [default] New task has been added!
+2016-10-18 13:04:05,490 INFO  [default] New task has been added!
+2016-10-18 13:04:05,492 INFO  [default] New task has been added!
+2016-10-18 13:04:05,494 INFO  [default] New task has been added!
+2016-10-18 13:04:05,496 INFO  [default] New task has been added!
+2016-10-18 13:04:05,500 INFO  [default] New task has been added!
+2016-10-18 13:04:05,503 INFO  [default] New task has been added!
+2016-10-18 13:04:05,506 INFO  [default] New task has been added!
+2016-10-18 13:05:09,401 INFO  [default] 2 workers have been created
+2016-10-18 13:05:11,516 INFO  [default] New task has been added!
+2016-10-18 13:07:40,680 INFO  [default] 2 workers have been created
+2016-10-18 13:07:43,845 INFO  [default] New task has been added!
+2016-10-18 13:07:43,848 INFO  [default] New task has been added!
+2016-10-18 13:07:43,849 INFO  [default] New task has been added!
+2016-10-18 13:07:43,851 INFO  [default] New task has been added!
+2016-10-18 13:07:43,853 INFO  [default] New task has been added!
+2016-10-18 13:07:43,855 INFO  [default] New task has been added!
+2016-10-18 13:07:43,857 INFO  [default] New task has been added!
+2016-10-18 13:07:43,859 INFO  [default] New task has been added!
+2016-10-18 13:07:43,861 INFO  [default] New task has been added!
+2016-10-18 13:07:43,862 INFO  [default] New task has been added!
+2016-10-18 13:07:43,865 INFO  [default] New task has been added!
+2016-10-18 13:07:43,867 INFO  [default] New task has been added!
+2016-10-18 13:07:43,870 INFO  [default] New task has been added!
+2016-10-18 13:07:43,872 INFO  [default] New task has been added!
+2016-10-18 13:07:50,261 INFO  [default] workers in queue - 2
+2016-10-18 16:31:42,558 INFO  [default] 2 workers have been created
+2016-10-18 16:31:42,562 INFO  [default] New task has been added!
+2016-10-18 16:31:42,564 INFO  [default] New task has been added!
+2016-10-18 16:31:42,567 INFO  [default] New task has been added!
+2016-10-18 16:31:42,569 INFO  [default] New task has been added!
+2016-10-18 16:31:42,573 INFO  [default] New task has been added!
+2016-10-18 16:31:42,575 INFO  [default] New task has been added!
+2016-10-18 16:31:42,577 INFO  [default] New task has been added!
+2016-10-18 16:31:42,578 INFO  [default] New task has been added!
+2016-10-18 16:31:42,580 INFO  [default] New task has been added!
+2016-10-18 16:31:42,582 INFO  [default] New task has been added!
+2016-10-18 16:31:42,584 INFO  [default] New task has been added!
+2016-10-18 16:31:42,586 INFO  [default] New task has been added!
+2016-10-18 16:31:42,588 INFO  [default] New task has been added!
+2016-10-18 16:31:42,590 INFO  [default] New task has been added!
+2016-10-18 16:32:31,920 INFO  [default] 2 workers have been created
+2016-10-18 16:32:31,925 INFO  [default] New task has been added!
+2016-10-18 16:32:31,925 INFO  [default] New task has been added!
+2016-10-18 16:32:31,940 INFO  [default] New task has been added!
+2016-10-18 16:32:31,940 INFO  [default] New task has been added!
+2016-10-18 16:32:31,956 INFO  [default] New task has been added!
+2016-10-18 16:32:31,956 INFO  [default] New task has been added!
+2016-10-18 16:32:31,972 INFO  [default] New task has been added!
+2016-10-18 16:32:31,987 INFO  [default] New task has been added!
+2016-10-18 16:32:31,987 INFO  [default] New task has been added!
+2016-10-18 16:32:32,003 INFO  [default] New task has been added!
+2016-10-18 16:32:32,003 INFO  [default] New task has been added!
+2016-10-18 16:32:32,024 INFO  [default] New task has been added!
+2016-10-18 16:32:32,025 INFO  [default] New task has been added!
+2016-10-18 16:32:32,025 INFO  [default] New task has been added!
+2016-10-18 16:33:09,806 INFO  [default] 2 workers have been created
+2016-10-18 16:33:09,806 INFO  [default] New task has been added!
+2016-10-18 16:33:09,806 INFO  [default] New task has been added!
+2016-10-18 16:33:09,806 INFO  [default] New task has been added!
+2016-10-18 16:33:09,806 INFO  [default] New task has been added!
+2016-10-18 16:33:09,806 INFO  [default] New task has been added!
+2016-10-18 16:33:09,821 INFO  [default] New task has been added!
+2016-10-18 16:33:09,821 INFO  [default] New task has been added!
+2016-10-18 16:33:09,821 INFO  [default] New task has been added!
+2016-10-18 16:33:09,821 INFO  [default] New task has been added!
+2016-10-18 16:33:09,821 INFO  [default] New task has been added!
+2016-10-18 16:33:09,821 INFO  [default] New task has been added!
+2016-10-18 16:33:09,821 INFO  [default] New task has been added!
+2016-10-18 16:33:09,837 INFO  [default] New task has been added!
+2016-10-18 16:33:09,837 INFO  [default] New task has been added!
+2016-10-18 16:48:35,025 INFO  [default] 2 workers have been created
+2016-10-18 16:48:37,123 INFO  [default] New task has been added!
+2016-10-18 16:48:37,123 INFO  [default] New task has been added!
+2016-10-18 16:48:37,123 INFO  [default] New task has been added!
+2016-10-18 16:48:37,123 INFO  [default] New task has been added!
+2016-10-18 16:48:37,123 INFO  [default] New task has been added!
+2016-10-18 16:48:37,123 INFO  [default] New task has been added!
+2016-10-18 16:48:37,123 INFO  [default] New task has been added!
+2016-10-18 16:48:37,123 INFO  [default] New task has been added!
+2016-10-18 16:48:37,139 INFO  [default] New task has been added!
+2016-10-18 16:48:37,139 INFO  [default] New task has been added!
+2016-10-18 16:48:37,139 INFO  [default] New task has been added!
+2016-10-18 16:48:37,139 INFO  [default] New task has been added!
+2016-10-18 16:48:37,139 INFO  [default] New task has been added!
+2016-10-18 16:48:37,139 INFO  [default] New task has been added!
+2016-10-18 16:48:48,707 INFO  [default] workers in queue - 2
+2016-10-18 16:48:48,707 INFO  [default] workers in queue - 2
+2016-10-18 16:49:04,302 INFO  [default] workers in queue - 3
+2016-10-18 16:49:15,077 INFO  [default] workers in queue - 3
+2016-10-18 16:49:16,198 INFO  [default] workers in queue - 3
+2016-10-18 16:49:23,375 INFO  [default] workers in queue - 3
+2016-10-18 16:49:27,271 INFO  [default] workers in queue - 3
+2016-10-18 16:49:27,293 INFO  [default] workers in queue - 3
+2016-10-18 16:49:27,293 INFO  [default] workers in queue - 3
+2016-10-18 16:49:27,293 INFO  [default] workers in queue - 3
+2016-10-18 16:49:27,309 INFO  [default] workers in queue - 3
+2016-10-18 16:49:27,309 INFO  [default] workers in queue - 3
+2016-10-18 16:49:27,324 INFO  [default] workers in queue - 3
+2016-10-18 16:49:27,340 INFO  [default] workers in queue - 3
+2016-10-18 16:49:46,947 INFO  [default] 2 workers have been created
+2016-10-18 16:49:46,951 INFO  [default] New task has been added!
+2016-10-18 16:49:46,954 INFO  [default] New task has been added!
+2016-10-18 16:49:46,957 INFO  [default] New task has been added!
+2016-10-18 16:49:46,959 INFO  [default] New task has been added!
+2016-10-18 16:49:46,959 INFO  [default] New task has been added!
+2016-10-18 16:49:46,959 INFO  [default] New task has been added!
+2016-10-18 16:49:46,959 INFO  [default] New task has been added!
+2016-10-18 16:49:46,959 INFO  [default] New task has been added!
+2016-10-18 16:49:46,959 INFO  [default] New task has been added!
+2016-10-18 16:49:46,959 INFO  [default] New task has been added!
+2016-10-18 16:49:46,959 INFO  [default] New task has been added!
+2016-10-18 16:49:46,975 INFO  [default] New task has been added!
+2016-10-18 16:49:46,975 INFO  [default] New task has been added!
+2016-10-18 16:49:46,975 INFO  [default] New task has been added!
+2016-10-18 16:49:47,958 INFO  [default] workers in queue - 2
+2016-10-18 16:49:47,962 INFO  [default] workers in queue - 2
+2016-10-18 16:49:47,964 INFO  [default] workers in queue - 2
+2016-10-18 16:49:47,964 INFO  [default] workers in queue - 2
+2016-10-18 16:49:47,964 INFO  [default] workers in queue - 3
+2016-10-18 16:49:47,980 INFO  [default] workers in queue - 3
+2016-10-18 16:49:47,995 INFO  [default] workers in queue - 3
+2016-10-18 16:49:47,995 INFO  [default] workers in queue - 3
+2016-10-18 16:49:48,011 INFO  [default] workers in queue - 3
+2016-10-18 16:49:48,027 INFO  [default] workers in queue - 3
+2016-10-18 16:49:48,027 INFO  [default] workers in queue - 3
+2016-10-18 16:49:48,042 INFO  [default] workers in queue - 3
+2016-10-18 16:49:48,062 INFO  [default] workers in queue - 3
+2016-10-18 16:49:48,064 INFO  [default] workers in queue - 3
+2016-10-19 10:13:37,678 INFO  [default] 2 workers have been created
+2016-10-19 10:13:37,706 INFO  [default] New task has been added!
+2016-10-19 10:13:37,707 INFO  [default] New task has been added!
+2016-10-19 10:13:37,709 INFO  [default] New task has been added!
+2016-10-19 10:13:37,712 INFO  [default] New task has been added!
+2016-10-19 10:13:37,715 INFO  [default] New task has been added!
+2016-10-19 10:13:37,717 INFO  [default] New task has been added!
+2016-10-19 10:13:37,718 INFO  [default] New task has been added!
+2016-10-19 10:13:37,720 INFO  [default] New task has been added!
+2016-10-19 10:13:37,722 INFO  [default] New task has been added!
+2016-10-19 10:13:37,723 INFO  [default] New task has been added!
+2016-10-19 10:13:37,725 INFO  [default] New task has been added!
+2016-10-19 10:13:37,728 INFO  [default] New task has been added!
+2016-10-19 10:13:37,730 INFO  [default] New task has been added!
+2016-10-19 10:13:37,732 INFO  [default] New task has been added!
+2016-10-19 10:13:38,661 INFO  [default] workers in queue - 2
+2016-10-19 10:13:38,692 INFO  [default] workers in queue - 2
+2016-10-19 10:13:38,708 INFO  [default] workers in queue - 2
+2016-10-19 10:13:38,724 INFO  [default] workers in queue - 3
+2016-10-19 10:13:38,777 INFO  [default] workers in queue - 4
+2016-10-19 10:13:38,792 INFO  [default] workers in queue - 4
+2016-10-19 10:13:38,846 INFO  [default] workers in queue - 4
+2016-10-19 10:13:38,861 INFO  [default] workers in queue - 4
+2016-10-19 10:13:38,861 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2016-10-16 23:15:45,316 INFO  [default] 2 workers were created
-2016-10-16 23:15:45,351 INFO  [default] New task was added
-2016-10-16 23:15:45,360 INFO  [default] New task was added
-2016-10-16 23:15:45,368 INFO  [default] New task was added
-2016-10-16 23:15:45,377 INFO  [default] New task was added
-2016-10-16 23:15:45,385 INFO  [default] New task was added
-2016-10-16 23:15:45,393 INFO  [default] New task was added
-2016-10-16 23:15:45,400 INFO  [default] New task was added
-2016-10-16 23:15:45,405 INFO  [default] New task was added
-2016-10-16 23:15:45,409 INFO  [default] New task was added
-2016-10-16 23:15:46,319 ERROR [default] Max thread limit is achieved.
+2016-10-19 10:13:38,877 INFO  [default] workers in queue - 4
+2016-10-19 10:13:38,893 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2016-10-16 23:16:19,606 INFO  [default] 2 workers were created
-2016-10-16 23:16:19,639 INFO  [default] New task was added
-2016-10-16 23:16:19,641 INFO  [default] New task was added
-2016-10-16 23:16:19,644 INFO  [default] New task was added
-2016-10-16 23:16:19,647 INFO  [default] New task was added
-2016-10-16 23:16:19,650 INFO  [default] New task was added
-2016-10-16 23:16:19,652 INFO  [default] New task was added
-2016-10-16 23:16:19,655 INFO  [default] New task was added
-2016-10-16 23:16:19,658 INFO  [default] New task was added
-2016-10-16 23:16:19,661 INFO  [default] New task was added
-2016-10-16 23:16:20,608 ERROR [default] Max thread limit is achieved.
+2016-10-19 10:13:38,893 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2016-10-17 01:14:33,185 INFO  [default] 2 workers were created
-2016-10-17 01:14:50,238 INFO  [default] New task was added
-2016-10-17 01:15:08,817 INFO  [default] New task was added
-2016-10-17 01:15:10,118 INFO  [default] New task was added
-2016-10-17 01:15:11,611 INFO  [default] New task was added
-2016-10-17 01:15:11,784 INFO  [default] New task was added
-2016-10-17 01:15:12,080 INFO  [default] New task was added
-2016-10-17 01:15:12,364 INFO  [default] New task was added
-2016-10-17 01:15:12,766 INFO  [default] New task was added
-2016-10-17 01:15:13,512 INFO  [default] New task was added
-2016-10-17 01:20:35,629 INFO  [default] 2 workers were created
-2016-10-17 01:20:35,641 INFO  [default] New task was added
-2016-10-17 01:20:35,650 INFO  [default] New task was added
-2016-10-17 01:20:35,660 INFO  [default] New task was added
-2016-10-17 01:20:35,668 INFO  [default] New task was added
-2016-10-17 01:20:35,676 INFO  [default] New task was added
-2016-10-17 01:20:35,684 INFO  [default] New task was added
-2016-10-17 01:20:35,688 INFO  [default] New task was added
-2016-10-17 01:20:35,693 INFO  [default] New task was added
-2016-10-17 01:20:35,698 INFO  [default] New task was added
-2016-10-17 01:21:07,000 INFO  [default] 2 workers were created
-2016-10-17 01:21:07,003 INFO  [default] New task was added
-2016-10-17 01:21:07,005 INFO  [default] New task was added
-2016-10-17 01:21:07,007 INFO  [default] New task was added
-2016-10-17 01:21:07,009 INFO  [default] New task was added
-2016-10-17 01:21:07,012 INFO  [default] New task was added
-2016-10-17 01:21:07,015 INFO  [default] New task was added
-2016-10-17 01:21:07,017 INFO  [default] New task was added
-2016-10-17 01:21:07,018 INFO  [default] New task was added
-2016-10-17 01:21:07,020 INFO  [default] New task was added
-2016-10-17 08:11:58,392 INFO  [default] 2 workers were created
-2016-10-17 08:11:58,407 INFO  [default] New task was added
-2016-10-17 08:11:58,407 INFO  [default] New task was added
-2016-10-17 08:11:58,423 INFO  [default] New task was added
-2016-10-17 08:11:58,423 INFO  [default] New task was added
-2016-10-17 08:11:58,439 INFO  [default] New task was added
-2016-10-17 08:11:58,439 INFO  [default] New task was added
-2016-10-17 08:11:58,439 INFO  [default] New task was added
-2016-10-17 08:11:58,439 INFO  [default] New task was added
-2016-10-17 08:11:58,439 INFO  [default] New task was added
-2016-10-17 08:19:42,448 ERROR [default] Max thread limit is achieved.
+2016-10-19 10:13:38,893 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2016-10-17 08:19:53,533 INFO  [default] 2 workers were created
-2016-10-17 08:19:53,537 INFO  [default] New task was added
-2016-10-17 08:19:53,539 INFO  [default] New task was added
-2016-10-17 08:19:53,540 INFO  [default] New task was added
-2016-10-17 08:19:53,542 INFO  [default] New task was added
-2016-10-17 08:19:53,546 INFO  [default] New task was added
-2016-10-17 08:19:53,548 INFO  [default] New task was added
-2016-10-17 08:19:53,549 INFO  [default] New task was added
-2016-10-17 08:19:53,551 INFO  [default] New task was added
-2016-10-17 08:19:53,553 INFO  [default] New task was added
-2016-10-17 08:59:42,841 ERROR [default] Max thread limit is achieved.
+2016-10-19 10:13:38,908 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2016-10-17 09:17:10,956 INFO  [default] 2 workers were created
-2016-10-17 09:17:10,959 INFO  [default] New task was added
-2016-10-17 09:17:10,961 INFO  [default] New task was added
-2016-10-17 09:17:10,963 INFO  [default] New task was added
-2016-10-17 09:17:10,964 INFO  [default] New task was added
-2016-10-17 09:17:10,966 INFO  [default] New task was added
-2016-10-17 09:17:10,968 INFO  [default] New task was added
-2016-10-17 09:17:10,970 INFO  [default] New task was added
-2016-10-17 09:17:10,971 INFO  [default] New task was added
-2016-10-17 09:17:10,973 INFO  [default] New task was added
-2016-10-17 09:17:11,958 ERROR [default] Max thread limit is achieved.
+2016-10-19 10:23:49,357 INFO  [default] 2 workers have been created
+2016-10-19 10:23:49,402 INFO  [default] New task has been added!
+2016-10-19 10:23:49,417 INFO  [default] New task has been added!
+2016-10-19 10:23:49,417 INFO  [default] New task has been added!
+2016-10-19 10:23:49,433 INFO  [default] New task has been added!
+2016-10-19 10:23:49,449 INFO  [default] New task has been added!
+2016-10-19 10:23:49,464 INFO  [default] New task has been added!
+2016-10-19 10:23:49,464 INFO  [default] New task has been added!
+2016-10-19 10:23:49,481 INFO  [default] New task has been added!
+2016-10-19 10:23:49,481 INFO  [default] New task has been added!
+2016-10-19 10:23:49,497 INFO  [default] New task has been added!
+2016-10-19 10:23:49,513 INFO  [default] New task has been added!
+2016-10-19 10:23:49,513 INFO  [default] New task has been added!
+2016-10-19 10:23:49,528 INFO  [default] New task has been added!
+2016-10-19 10:23:49,528 INFO  [default] New task has been added!
+2016-10-19 10:23:50,361 INFO  [default] workers in queue - 2
+2016-10-19 10:23:50,383 INFO  [default] workers in queue - 2
+2016-10-19 10:23:50,399 INFO  [default] workers in queue - 2
+2016-10-19 10:23:50,414 INFO  [default] workers in queue - 3
+2016-10-19 10:23:50,483 INFO  [default] workers in queue - 4
+2016-10-19 10:23:50,499 INFO  [default] workers in queue - 4
+2016-10-19 10:23:50,546 INFO  [default] workers in queue - 4
+2016-10-19 10:23:50,583 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2016-10-17 09:17:11,967 ERROR [default] Max thread limit is achieved.
+2016-10-19 10:23:50,646 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2016-10-17 09:17:44,433 INFO  [default] 2 workers were created
-2016-10-17 09:17:44,446 INFO  [default] New task was added
-2016-10-17 09:17:44,453 INFO  [default] New task was added
-2016-10-17 09:17:44,458 INFO  [default] New task was added
-2016-10-17 09:17:44,462 INFO  [default] New task was added
-2016-10-17 09:17:44,466 INFO  [default] New task was added
-2016-10-17 09:17:44,469 INFO  [default] New task was added
-2016-10-17 09:17:44,473 INFO  [default] New task was added
-2016-10-17 09:17:44,477 INFO  [default] New task was added
-2016-10-17 09:17:44,482 INFO  [default] New task was added
-2016-10-17 09:19:40,542 ERROR [default] Max thread limit is achieved.
+2016-10-19 10:23:50,683 INFO  [default] workers in queue - 4
+2016-10-19 10:23:50,699 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2016-10-18 02:08:06,742 INFO  [default] 2 workers were created
-2016-10-18 02:08:06,754 INFO  [default] New task was added
-2016-10-18 02:08:06,759 INFO  [default] New task was added
-2016-10-18 02:08:06,768 INFO  [default] New task was added
-2016-10-18 02:08:06,778 INFO  [default] New task was added
-2016-10-18 02:08:06,786 INFO  [default] New task was added
-2016-10-18 02:08:06,794 INFO  [default] New task was added
-2016-10-18 02:08:06,802 INFO  [default] New task was added
-2016-10-18 02:08:06,808 INFO  [default] New task was added
-2016-10-18 02:08:06,813 INFO  [default] New task was added
-2016-10-18 02:08:29,358 ERROR [default] Max thread limit is achieved.
+2016-10-19 10:23:50,745 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
-2016-10-18 02:08:34,258 ERROR [default] Max thread limit is achieved.
+2016-10-19 10:23:50,761 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
+
+2016-10-19 10:23:50,761 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
+
+2016-10-19 10:26:34,728 INFO  [default] 2 workers have been created
+2016-10-19 10:26:34,744 INFO  [default] New task has been added!
+2016-10-19 10:26:34,744 INFO  [default] New task has been added!
+2016-10-19 10:26:34,764 INFO  [default] New task has been added!
+2016-10-19 10:26:34,766 INFO  [default] New task has been added!
+2016-10-19 10:26:34,766 INFO  [default] New task has been added!
+2016-10-19 10:26:34,782 INFO  [default] New task has been added!
+2016-10-19 10:26:34,782 INFO  [default] New task has been added!
+2016-10-19 10:26:34,782 INFO  [default] New task has been added!
+2016-10-19 10:26:34,797 INFO  [default] New task has been added!
+2016-10-19 10:26:34,813 INFO  [default] New task has been added!
+2016-10-19 10:26:34,813 INFO  [default] New task has been added!
+2016-10-19 10:26:34,813 INFO  [default] New task has been added!
+2016-10-19 10:26:34,828 INFO  [default] New task has been added!
+2016-10-19 10:26:34,828 INFO  [default] New task has been added!
+2016-10-19 10:26:35,734 INFO  [default] workers in queue - 2
+2016-10-19 10:26:35,750 INFO  [default] workers in queue - 2
+2016-10-19 10:26:35,772 INFO  [default] workers in queue - 2
+2016-10-19 10:26:35,788 INFO  [default] workers in queue - 3
+2016-10-19 10:26:35,850 INFO  [default] workers in queue - 3
+2016-10-19 10:26:35,872 INFO  [default] workers in queue - 4
+2016-10-19 10:26:35,934 INFO  [default] workers in queue - 4
+2016-10-19 10:26:35,950 INFO  [default] workers in queue - 4
+2016-10-19 10:26:35,987 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
+
+2016-10-19 10:26:36,050 INFO  [default] workers in queue - 4
+2016-10-19 10:26:36,072 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
+
+2016-10-19 10:26:36,119 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
+
+2016-10-19 10:26:36,150 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
+
+2016-10-19 10:26:36,171 ERROR [default] Max thread limit is achieved: workers in queue - 4
+Max thread limit is achieved: current tasks quantity - 4
 
